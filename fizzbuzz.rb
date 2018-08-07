@@ -1,4 +1,4 @@
-x = 15
+x = 3
 
 if x%3 == 0 
   puts "Fizz"
